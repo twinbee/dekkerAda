@@ -1,0 +1,89 @@
+[mbennett@white prog1]$ gnatmake as1.adb && ./as1
+gcc -c as1.adb
+as1.adb:28:11: warning: file name does not match unit name, should be "dekker.ad b"
+gnatbind -x as1.ali
+gnatlink as1.ali
+# tasks[1-2]:       0
+# tasks[1-2]:       2
+# iterations[1-20]: 50000000
+# iterations[1-20]: 20
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+        1 in  CS
+        1 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+        1 in  CS
+        1 out CS
+        1 in  CS
+        1 out CS
+0 in  CS
+0 out CS
+0 in  CS
+0 out CS
+0 in  CS
+0 out CS
